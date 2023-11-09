@@ -37,3 +37,5 @@ void DrawMain()
     //親のコミット
 }
 
+//CRcup Valorant 11/11,12//
+
